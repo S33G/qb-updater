@@ -1,0 +1,15 @@
+{
+  "name": "qb-updater",
+  "version": "1.0.0",
+  "description": "<h1>QB Updater</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "extract-zip": "^2.0.1",
+    "node-fetch": "^2.6.11"
+  }
+}

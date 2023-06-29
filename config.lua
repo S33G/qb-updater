@@ -1,6 +1,6 @@
 Config = {}
 
-Config.OS = "windows" -- windows or windows or windows
+Config.OS = "linux" -- windows or windows or windows
 
 --Make sure to scroll to the bottom to set your password
 
@@ -295,6 +295,6 @@ Config.Resources = {
 --   ______   ______   ______   ______   ______   ______   ______   ______   ______   ______   ______   ______   ______   ______  
 --  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  /_____/  
                                                                                                                                
-Config.EnableAdditionalSecurity = true -- Enable additional security features (recommended)                                                                                                                    
+Config.EnableAdditionalSecurity = false -- Enable additional security features (recommended)                                                                                                                    
 Config.Password = 'mrcaseasyas123' -- Password to install resources not listed above
 
